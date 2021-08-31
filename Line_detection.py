@@ -9,11 +9,14 @@ def detect_edges(frame):
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     # cv2.imshow("hsv", hsv)
 
-    # lift blue from frame
-    lower_blue = np.array(
-        [30, 40, 40])  # 60, 150 is range of blue, the second and third parameters are not much important.
-    upper_blue = np.array([90, 255, 255])
-    mask = cv2.inRange(hsv, lower_blue, upper_blue)
+    '''# lift blue from frame
+    lower_blue = np.array([30, 40, 40]) # 60, 150 is range of blue, the second and third parameters are not much important.
+    upper_blue = np.array([90, 255, 255])'''
+    
+    # lift white from frame
+    lower_white = np.array([0, 0, 255 - 30])
+    upper_white = np.array([255, 30, 255])
+    mask = cv2.inRange(hsv, lower_white, upper_white)
     # cv2.imshow("blue mask", mask)
 
     # detect edges
