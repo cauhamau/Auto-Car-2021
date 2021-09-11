@@ -3,9 +3,9 @@ this setup support Ubuntu 18.04
 
 
 ## Contents
-1. [Install Prerequisites](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#1-install-prerequisites)
-2. [Setup NVIDIA Driver for your GPU](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#2-setup-nvidia-driver-for-your-gpu)
-3. [Install CUDA](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#3-install-cuda)
+1. [Install Prerequisites](https://github.com/cauhamau/Racing-Car-2021/blob/set-up/README.md#1-install-prerequisites)
+2. [Setup NVIDIA Driver for your GPU](https://github.com/cauhamau/Racing-Car-2021/blob/set-up/README.md#2-setup-nvidia-driver-for-your-gpu)
+3. [Install CUDA](https://github.com/cauhamau/Racing-Car-2021/blob/set-up/README.md#3-install-cuda)
 4. [Install cuDNN](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#4-install-cudnn)
 5. [Install TensorRT](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#5-install-tensorrt)
 6. [Python and Other Dependencies](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#6-python-and-other-dependencies)
