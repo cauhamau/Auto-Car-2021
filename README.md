@@ -3,17 +3,17 @@ this setup support Ubuntu 18.04
 
 
 ## Contents
-1. [Install Prerequisites](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#1-install-prerequisites)
-2. [Setup NVIDIA Driver for your GPU](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#2-setup-nvidia-driver-for-your-gpu)
-3. [Install CUDA](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#3-install-cuda)
-4. [Install cuDNN](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#4-install-cudnn)
-5. [Install TensorRT](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#5-install-tensorrt)
-6. [Python and Other Dependencies](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#6-python-and-other-dependencies)
-7. [Deep Learning Frameworks](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#7-install-deep-learning-frameworks)
-    - [PyTorch](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#pytorch)
-    - [TensorFlow](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#tensorflow)
-    - [Darknet for YOLO](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#darknet-for-yolo)
-8. [ROS Melodic](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#8-ros-melodic)
+1. [Install Prerequisites](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#1-install-prerequisites)
+2. [Setup NVIDIA Driver for your GPU](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#2-setup-nvidia-driver-for-your-gpu)
+3. [Install CUDA](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#3-install-cuda)
+4. [Install cuDNN](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#4-install-cudnn)
+5. [Install TensorRT](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#5-install-tensorrt)
+6. [Python and Other Dependencies](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#6-python-and-other-dependencies)
+7. [Deep Learning Frameworks](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#7-install-deep-learning-frameworks)
+    - [PyTorch](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#pytorch)
+    - [TensorFlow](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#tensorflow)
+    - [Darknet for YOLO](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#darknet-for-yolo)
+8. [ROS Melodic](https://github.com/cauhamau/Racing-Car-2021/edit/set-up/README.md#8-ros-melodic)
 
 
 ## 1. Install Prerequisites
