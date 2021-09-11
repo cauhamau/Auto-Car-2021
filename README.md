@@ -15,6 +15,7 @@ this setup support Ubuntu 18.04
     - [Darknet for YOLO](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#darknet-for-yolo)
 8. [ROS Melodic](https://github.com/tonhathuy/setup-racing-car-ubuntu/blob/main/README.md#8-ros-melodic)
 
+
 ## 1. Install Prerequisites
 Before installing anything, let us first update the information about the packages stored on the computer and upgrade the already installed packages to their latest versions.
 
@@ -28,6 +29,14 @@ Next, we will install some basic packages which we might need during the install
 ## 2. Setup NVIDIA Driver for your GPU
 
 follow [this video](https://www.youtube.com/watch?v=GljujCLixzE) and [src](./src/Install_Nvidia_Driver.md)
+# If Error:
+    Ctrl + Alt + F3
+    sudo apt-get purge nvidia*
+    sudo apt-get autoremove 
+    
+# Easy set up:
+    sudo -i
+    ubuntu-drivers autoinstall
 
 ## 3. Install CUDA
 
