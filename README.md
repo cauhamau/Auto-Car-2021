@@ -57,7 +57,7 @@ sudo apt-get -y install cuda-10-2
 
 ## 4. Install cuDNN
 
-Download CuDNN here (BOTH the runtime and dev, deb) from: [drive link 1](https://drive.google.com/file/d/1X7jWetvwW3Gf9jB1KQDm7WfPWrF4J2Jv/view?usp=sharing) [drive link 2](https://drive.google.com/file/d/1NKrtltb2JVqO4q1otMEZFJMDClNGmcMR/view?usp=sharing) or [nvidia source](https://developer.nvidia.com/rdp/cudnn-download)
+Download CuDNN here (BOTH the runtime and dev, deb) from: [drive link 1](https://drive.google.com/file/d/1xXtoLcXWTW2EDUaxXmlp1gB9pEXxsWst/view?usp=sharing) [drive link 2](https://drive.google.com/file/d/14nyUfLgjpTWLOH-pthrG33_IMWczZiZM/view?usp=sharing) or [nvidia source](https://developer.nvidia.com/rdp/cudnn-download)
 
 ```
 sudo dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
