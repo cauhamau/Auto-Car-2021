@@ -74,7 +74,7 @@ cat /usr/include/x86_64-linux-gnu/cudnn_v*.h | grep CUDNN_MAJOR -A 2
 
 ## 5. Install TensorRT
 
-Download TensorRT [drive link](https://drive.google.com/file/d/1K1l4esENGP_zTArocVUM4AADvZD35xDW/view?usp=sharing) or [nvidia source](https://developer.nvidia.com/nvidia-tensorrt-7x-download). Use version 7.0.
+Download TensorRT [drive link](https://drive.google.com/file/d/1Rran3zTFnmxP1XBIbQyl3zNdPSsJh2MS/view?usp=sharing) or [nvidia source](https://developer.nvidia.com/nvidia-tensorrt-7x-download). Use version 7.0.
 
 ```
 sudo dpkg -i nv-tensorrt-repo-ubuntu1804-cuda10.2-trt7.0.0.11-ga-20191216_1-1_amd64.deb
